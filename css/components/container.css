@@ -1,0 +1,30 @@
+.main-container {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border: 1px solid rgba(73, 49, 49, 0.15);
+  border-radius: 2px;
+  width: 180px;
+  height: 210px;
+  margin: 0px 40px;
+  padding: 30px;
+  font-size: 14px;
+}
+
+.card p {
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.card img {
+  width: 150px;
+  height: 100px;
+}
